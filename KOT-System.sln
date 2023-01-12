@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KOT-System", "KOT-System\KOT-System.csproj", "{3399C00C-591E-4604-B91B-98F5732F178A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3399C00C-591E-4604-B91B-98F5732F178A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3399C00C-591E-4604-B91B-98F5732F178A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3399C00C-591E-4604-B91B-98F5732F178A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3399C00C-591E-4604-B91B-98F5732F178A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679BB974-FF71-4843-9E30-13D7980EE6A6}
+	EndGlobalSection
+EndGlobal
